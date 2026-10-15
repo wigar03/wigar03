@@ -57,3 +57,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=wigar03&background=0D0221&border=7928CA&stroke=FF007F&ring=FF007F&fire=39FF14&currStreakNum=39FF14&sideNums=FFFFFF&currStreakLabel=FF007F&sideLabels=39FF14&dates=888888" alt="Arcade Streak" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wigar03/wigar03/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
